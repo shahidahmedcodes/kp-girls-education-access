@@ -1,0 +1,42 @@
+district,boys_primary,girls_primary,boys_middle,girls_middle,boys_high,girls_high,boys_higher_sec,girls_higher_sec,boys_total,girls_total,grand_total,area
+Abbottabad,793,564,80,91,70,50,22,16,965,721,1686,Settled
+Bannu,630,569,69,79,64,49,23,16,786,713,1499,Settled
+Battagram,468,231,25,21,36,9,6,2,535,263,798,Settled
+Bunner,453,200,59,43,59,21,27,14,598,278,876,Settled
+Charsadda,488,454,48,54,73,44,20,11,629,563,1192,Settled
+Chitral Lower,243,101,21,19,30,12,8,3,302,135,437,Settled
+Chitral Upper,195,82,21,17,28,10,5,1,249,110,359,Settled
+Dera Ismail Khan,767,473,115,75,81,46,29,14,992,608,1600,Settled
+Dir Lower,751,485,78,63,75,55,35,27,939,630,1569,Settled
+Dir Upper,573,241,56,31,46,26,21,6,696,304,1000,Settled
+Hangu,201,116,20,19,27,12,10,1,258,148,406,Settled
+Haripur,545,372,67,63,67,53,22,17,701,505,1206,Settled
+Karak,436,350,50,37,55,29,14,5,555,421,976,Settled
+Kohat,372,307,35,50,49,28,21,12,477,397,874,Settled
+Kohistan Lower,177,93,23,7,12,0,3,0,215,100,315,Settled
+Kohistan Upper,226,97,23,5,15,1,0,0,264,103,367,Settled
+Kolai Palas,142,64,19,7,6,1,3,0,170,72,242,Settled
+Lakki Marwat,572,318,52,49,56,25,15,5,695,397,1092,Settled
+Malakand,316,239,31,31,43,28,8,11,398,309,707,Settled
+Mansehra,1134,671,109,78,92,52,29,18,1364,819,2183,Settled
+Mardan,808,666,82,95,86,81,46,42,1022,884,1906,Settled
+Nowshera,412,383,46,56,64,40,30,23,552,502,1054,Settled
+Peshawar,594,469,81,83,77,66,33,21,785,639,1424,Settled
+Shangla,425,180,52,24,42,10,11,3,530,217,747,Settled
+Swabi,574,452,69,62,75,49,32,22,750,585,1335,Settled
+Swat,812,546,89,58,76,43,42,16,1019,663,1682,Settled
+Tank,210,163,26,19,27,10,3,2,266,194,460,Settled
+Torghar,143,64,20,7,9,1,3,0,175,72,247,Settled
+Bajaur,354,189,66,43,31,13,5,2,456,247,703,Merged
+Khyber,308,284,46,39,38,13,4,2,396,338,734,Merged
+Kurram,319,198,46,46,53,17,5,2,423,263,686,Merged
+Mohmand,322,192,43,38,30,15,3,1,398,246,644,Merged
+North Waziristan,415,394,57,63,37,12,2,0,511,469,980,Merged
+Orakzai,272,177,34,49,28,9,3,2,337,237,574,Merged
+SD Bhetani (Lakki Marwat),43,50,7,6,3,3,0,0,53,59,112,Merged
+SD Dara Adam Khel (Kohat),64,83,12,15,13,3,0,0,89,101,190,Merged
+SD Darazinda (Dera Ismail Khan),90,54,20,8,6,2,1,0,117,64,181,Merged
+SD Hassan Khel (Peshawar),76,64,8,15,11,3,1,1,96,83,179,Merged
+SD Jandola (Tank),86,110,27,24,10,4,0,0,123,138,261,Merged
+SD Wazir (Bannu),175,183,25,11,21,4,1,0,222,198,420,Merged
+South Waziristan,322,264,67,32,33,10,2,0,424,306,730,Merged
